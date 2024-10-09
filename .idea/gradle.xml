@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/button_text_textfield_kullanimi" />
+            <option value="$PROJECT_DIR$/app/dinamik_dropdown_menu_kullanimi" />
+            <option value="$PROJECT_DIR$/app/dropdown_menu_kullanimi" />
+            <option value="$PROJECT_DIR$/app/lazycolumn_dinamiklisteleme" />
+            <option value="$PROJECT_DIR$/app/mvvm_kullanimi" />
+            <option value="$PROJECT_DIR$/app/navigationbar_kullanimi" />
+            <option value="$PROJECT_DIR$/app/room_db" />
+            <option value="$PROJECT_DIR$/app/sayfalararasi_veritransferi" />
+            <option value="$PROJECT_DIR$/app/sayfalararasi_veritransferi_nesnetabanli" />
+            <option value="$PROJECT_DIR$/app/sayfalararasigecis" />
+            <option value="$PROJECT_DIR$/app/topappbar" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
